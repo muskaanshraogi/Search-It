@@ -1,0 +1,40 @@
+
+.main-page {
+    overflow: hidden;
+    background-color: #212121;
+}
+
+.main-row {
+    height: 100vh;
+}
+
+.search-bar {
+    border-style: solid;
+    border-color: #8FBC8F;
+    color: #000000;
+}
+
+.ratings {
+    margin-left: 50px;
+    margin-right: 80px;
+    padding: 5px;
+    border-top: solid;
+    border-width: 1px;
+    border-color: #8FBC8F;
+}
+
+.ratings .title-text {
+    margin-bottom: 7px;
+    font-size: 24px;
+    color: #70dbdb;
+}
+
+.column {
+    border-right: solid;
+    border-width: 1px;
+    border-color: #8FBC8F;
+}
+
+.result-list {
+   
+}
